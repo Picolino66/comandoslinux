@@ -17,3 +17,7 @@ xrandr -o inverted -> inverte
 xrandr -o normal -> volta
 
 gsettings set org.gnome.desktop.background picture-uri file:///home/... -> Trocar plano de fundo
+
+wget -> baixar img
+
+eog -> exibir imagem
